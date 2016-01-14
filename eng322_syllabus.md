@@ -19,25 +19,73 @@ This course will provide an introduction to modern Irish Literature, beginning w
 - ENG211: Introduction to the Study of Language and Literature
 
 # Required Texts
-- Samuel Beckett, *Endgame and Act without Words*, Grove Atlantic, ISBN: 9780802144393.
-- Samuel Beckett, *Waiting for Godot*, Grove Atlantic, ISBN: 0802130348.
-- Elizabeth Bowen, *The Last September*, Anchor, ISBN: 9780385720144.
-- John P. Harrington, ed., *Modern and Contemporary Irish Drama*, 2nd edition, Norton, ISBN: 9780393932430.
-- James Joyce, *A Portrait of the Artist as a Young Man*, Norton, ISBN: 9780393926798.
-- Bernard MacLaverty, *Grace Notes*, Norton, ISBN: 0393318419.
+- Beckett, Samuel. *Endgame and Act without Words*. Grove Atlantic, ISBN: 9780802144393.
+- Beckett, Samuel. *Waiting for Godot*. Grove Atlantic, ISBN: 0802130348.
+- Bowen, Elizabeth. *The Last September*. Anchor, ISBN: 9780385720144.
+- Harrington, John P., ed. *Modern and Contemporary Irish Drama*, 2nd edition. Norton, ISBN: 9780393932430.
+- Joyce, James. *A Portrait of the Artist as a Young Man*. Norton, ISBN: 9780393926798.
+- MacLaverty, Bernard. *Grace Notes*. Norton, ISBN: 0393318419.
 
 # Student Learning Outcomes
+After you’ve successfully finished this course, you’ll be able to:
 
+1. Analyze written materials from a variety of genres.
+2. Appreciate the styles and genres of modern Irish literature.
+3. Demonstrate a historical and cultural understanding of modern Irish literature.
+4. Demonstrate a familiarity with, and ability to apply, the concepts of postcolonial studies to literary texts.
+5. Articulate, discuss, and defend arguments about literature, history, and theory at an advanced level.
+6. Write clearly for a specified audience, using conventions appropriate to your rhetorical situation.
 
+# Grading Scale
+| ---
+| A+ 97-100	| B+ 87-89 | C+ 77-79 | D+ 67-69 | F Below 60 |
+| A 93-96 | B 83-86 | C 73-76 | D 63-66 |
+| A- 90-92 | B- 80-82 | C- 70-72 | D- 60-62 |
 
 # Assignments and Assessment
 
+## In-Class Participation (25%)
+Because this is a seminar course, your comments serve a crucial role in the classroom experience. Discussion is one of the best ways to clarify your understandings and learn to build arguments; it’s important, therefore, that you participate frequently and put thought into your preparation. To help you do this in a structured way, I recommend that you get in the habit of coming to class with two questions about the reading, and two passages that struck you as particularly significant/interesting/perplexing. I will keep track of your participation in our classroom discussions and grade your performance at the end of each quad. This assignment will be assessed according to a grading rubric, which you should consult regularly to make sure your participation includes all of the required elements. A copy of the rubric is available on our course Blackboard site.
+
+## Provocation Essays (15% each; 30% total)
+Twice during the semester, you will write a 5-6 page (1,500-1,800 word) essay about the assigned reading for an upcoming class meeting. *If more than one text has been assigned for your class meeting, you can elect to focus on just one, or to make an argument about the relationship between/among two or more.* These provocation essays should make a provocative argument for group discussion. In other words, they should provide us with a creative, interesting reading of the text that opens it up to the ideas and questions from the course, helps us see things we might have missed, and/or provides us with an insightful analysis. In addition, provocation essays should observe the following guidelines: essays should offer an argument expressed in a thesis claim (please underline your thesis statement in your document before submitting it); essays should discuss specific passages from the assigned reading; essays should be written in MLA style, and include a Works Cited page; essays should draw on 2-3 academic sources to substantiate their claims, deepen their arguments, or increase their potential to persuade their audience; essays should conclude with a list of three provocative questions that can serve to jumpstart our conversation in class.
+
+The Provocation Essay assignment has three components:
+
+- **Your Precirculated Essay (25% of assignment grade)**: At least three days prior to your assigned class session, you will email me your essay (for a Tuesday class session, your essay is due no later than 11:59 p.m. on the Saturday immediately preceeding your date; for a Thursday class session, your essay is due no later than 11:59 p.m. on the Monday immediately preceeding your date). After I receive your essay, I will post it to our shared class folder in Google Docs. Your classmates will read it and respond with their comments, questions, and/or reactions (see the Provocation Workshop Participation assignment below). Be sure to review these responses before class -- they are very likely to come up during our conversation with you.
+- **Your Contribution to Our Class Session (25% of assignment grade):** During your assigned class session, you should be prepared to use your provocation essay and questions to help us begin our conversation for the day. Remember that we will already have read and responded to your essay, so there is no need to present your argument to us again; instead I will often turn to the writer(s) of a class session's Provocation Essay(s) to ask us an initial question or two to get the class talking about the issues you raised. It would be especially wise to select one or more relevant passages from the assigned reading to which you can point us as we consider your questions and seek to explore into the text(s) we are discussing in more detail.
+- **Your Revised Essay (50% of assignment grade):** No more than two days after your assigned class session, you will email me a fresh version of your essay, revised in response to the comments, questions, and/or reactions you received from your peers for a Tuesday class session, your revised essay is due no later than Thursday at 11:59 p.m.; for a Thursday class session, your revised essay is due no later than Saturday at 11:59 p.m. As you revise your essay, your goal should be to learn from the response you received during the digital writing workshop on Google Docs and the conversation in class, and to use your audience's input to make your essay stronger and more persuasive. **Please append a brief paragraph titled "Revision Memo" at the end of your revised Provocation Essay in which you describe what you learned from our workshop on your essay and the revisions you made to strengthen your essay.**
+
+## Provocation Workshop Participation (25%)
+Provocation essays written by your classmates are part of the assigned reading each week, and we will be striving to create a supportive community of readers and writers within our course. Giving and receiving feedback will be a key component to this academic community we will seek to build together. Throughout the semester, you will have the opportunity to participate in a digital writing workshop in Google Docs in which you read and respond to your classmates' provocation essays. The day before each class (no later than 11:59 p.m. on Monday for a Tuesday class, or 11:59 p.m. on Wednesday for a Thursday class), you will be responsible for reading the provocation essay(s) your classmates have prepared for the next day's class session and responding with comments, questions, and/or reactions in the margin of the essay on Google Docs. I have set the editing privileges so that everyone can comment on the papers prior to our class session. If you need help, please watch this video tutorial (6 minutes) on using the comment features of Google Docs: https://www.youtube.com/watch?v=kQlzjAVnb1w. 
+
+To receive full credit for provocation workshop participation, you should post at least one substantive comment for each essay your classmates have written. This is the minimum requirement, but you are welcome to participate in the workshop conversation as often as you’d like. Contributions to the provocation workshop are due on Mondays by 11:59 p.m. for a Tuesday class meeting, and Wednesdays by 11:59 p.m. for a Thursday class meeting. I will keep track of your participation in our classroom discussions and grade your performance at the end of each quad. This assignment will be assessed according to a grading rubric, which you should consult regularly to make sure your participation includes all of the required elements. A copy of the rubric is available on our course Blackboard site.
+
+## Final Project (20%)
+
+### Proposal
+*Please see "Final Draft," below, for a full description of the final project.* Proposals for the final project will be due during Week 14. For the proposal you will write a 400-500 word description of both (1) the question/issue you plan to address in your project, and (2) the critical conversation related to this question/issue that you plan to engage. The proposal is due by 11:59 p.m. on the date indicated in the schedule below. You will submit your proposal electronically via Blackboard – to do so, login to our Blackboard site, click on the "Final Project" link, click on the "Proposal" link, and upload your file. This assignment will be assessed according to a grading rubric, which you should consult before submitting your proposal to make sure you have included all of the required elements. A copy of the rubric is available on our course Blackboard site.
+
+### First Draft
+*Please see "Final Draft," below, for a full description of the final project.* First drafts of the final project will be due during Week 16. Your first draft will be graded for completeness, but not for quality (that is, you can earn points for having done it, but I will not grade your performance in argumentation, grammar and spelling, etc. until the final draft). To earn full credit for completing a first draft, your draft should include all of the required elements of the final draft – it should be 8-10 pages long, it should articulate a clear question/issue, it should engage with at least five academic research sources, it should cite these sources in MLA style, and it should include a Works Cited page. Please underline your thesis statement (your main claim or argument), which should appear in your first paragraph. The first draft of your final project is due by 11:59 p.m. on the date indicated in the schedule below. You will submit your essay electronically via Blackboard – to do so, login to our Blackboard site, click on the "Final Project" link, click on the "First Draft" link, and upload your file. This assignment will be assessed according to a grading rubric, which you should consult before submitting your first draft to make sure you have included all of the required elements. A copy of the rubric is available on our course Blackboard site.
+
+### Peer Review Participation
+*Please see "Final Draft," below, for a full description of the final project.* During Week 16 you will have the opportunity to give and receive feedback on essay drafts. I will provide questions for structuring this feedback.
+
+### Final Draft
+For our culminating project in this course, you will complete a final project that makes an argument about one of the literary texts we have read this semester. Drawing on our reading, class conversations, and your own original research, you will explain your question/issue about the text and persuade your audience that this question/issue is vital for understanding it well. For many of you, the final project will take the form of a 8-10 page (double-spaced) research essay. If you take this route, the introduction to your essay should pose the question/issue that your essay will address and engage your reader’s interest in it. Within your essay, you will join in conversation with at least five other sources (scholars, critics, etc.) who have addressed your question/issue. Your proposed answer to this question (summarized in a single sentence) will serve as the thesis statement for your paper. Please underline your thesis statement (your main claim or argument), which should appear in your first paragraph. 
+
+Others of you may wish to consider an alternative format to the traditional research essay for this final project. I'm open to this. If you have a creative idea for exploring a question/idea about one of our modern Irish literary texts, please let me know. Alternative formats for the final project must receive my approval before you write a proposal.
+
+The final draft of your final project is due on the date indicated in the schedule below. You will submit your project electronically via Blackboard -- to do so, login to our Blackboard site, click on the "Final Project" link, click on the "Final Draft" link, and upload your file. This assignment will be assessed according to a grading rubric, which you should consult before submitting your essay to make sure you have included all of the required elements. A copy of the rubric is available on our course Blackboard site.
 
 # Course Policies  
 
 ## Late Work
+All assignments should follow MLA guidelines. Writers who neglect these basic issues of formatting can expect to be penalized. Assignments are due by the beginning of class on the date indicated unless I specify otherwise. Assignments handed in at any time after the specified due date will be penalized by 5% for each day late, including weekends. Note that technology failure (such as a computer crash or a lost file) is never a valid excuse for a late assignment. Additionally, I will not accept assignments submitted more than one week late.
 
 ## Absences
+You are permitted two (2) absences ("personal days"), no questions asked, without detriment to your grade; subsequent absences, however, will each lower your overall course grade by five percent. Excessive absence can result in failing this course. If you become ill or the victim of emergency circumstances, please let me know as soon as possible and keep me informed; I am willing to work with you to achieve a reasonable accommodation in such situations, but I can only do so with advance notice and regular communication.
 
 ## Extensions
 No extensions will be given except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
