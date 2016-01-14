@@ -13,7 +13,7 @@ Office Hours: MW 1-2 p.m. and 3-4 p.m.; TR 3-4 p.m. &nbsp; | &nbsp; Office Hours
 ---
 
 # About the Course
-This course will provide an introduction to modern Irish Literature, beginning with the tremendous output of poetry, drama, fiction and prose during the Irish Literary Revival (the 1890s through the 1930s), and focusing on the influential work of W. B. Yeats, Lady Gregory, J. M. Synge and George Bernard Shaw. We will move next to the height of the modernist movement in Ireland, including the work of James Joyce and Samuel Beckett. The course will close with a discussion of Northern Ireland and the combination of politics and Christianity that has, until recently, been a source of tension and violence in the region.  Major themes will include the uniquely Irish sense of history, which includes the myth, legend, and folklore these writers put to intriguing uses; political issues such as colonialism, nationalism, and the Irish language; religious issues such as belief, despair, prayer, the figure of the priest; attitudes towards the Irish landscape, people, and culture; as well as more general modernist questions such as fragmentation, alienation, issues of gender/race/class, and the nature of the work of art.
+This course will provide an introduction to modern Irish Literature, beginning with the tremendous output of poetry, drama, fiction and prose during the Irish Literary Revival (the 1890s through the 1930s), and focusing on the influential work of W. B. Yeats, Lady Gregory, J. M. Synge and George Bernard Shaw. We will move next to the height of the modernist movement in Ireland, including the work of James Joyce and Samuel Beckett. The course will close with a discussion of Northern Ireland and the combination of politics and Christianity that has, until recently, been a source of tension and violence in the region.  Major themes will include the uniquely Irish sense of history, which includes the myth, legend, and folklore these writers put to intriguing uses; political issues such as colonialism, nationalism, and the Irish language; religious issues such as the role of Protestantism and Catholicism in Ireland and Northern Ireland; attitudes towards the Irish landscape, people, and culture; as well as more general modernist questions such as fragmentation, alienation, issues of gender/race/class, and the nature of the work of art.
 
 # Prerequisite
 - ENG211: Introduction to the Study of Language and Literature
@@ -52,14 +52,14 @@ Twice during the semester, you will write a 5-6 page (1,500-1,800 word) essay ab
 
 The Provocation Essay assignment has three components:
 
-- **Your Precirculated Essay (25% of assignment grade)**: At least three days prior to your assigned class session, you will email me your essay (for a Tuesday class session, your essay is due no later than 11:59 p.m. on the Saturday immediately preceeding your date; for a Thursday class session, your essay is due no later than 11:59 p.m. on the Monday immediately preceeding your date). After I receive your essay, I will post it to our shared class folder in Google Docs. Your classmates will read it and respond with their comments, questions, and/or reactions (see the Provocation Workshop Participation assignment below). Be sure to review these responses before class -- they are very likely to come up during our conversation with you.
-- **Your Contribution to Our Class Session (25% of assignment grade):** During your assigned class session, you should be prepared to use your provocation essay and questions to help us begin our conversation for the day. Remember that we will already have read and responded to your essay, so there is no need to present your argument to us again; instead I will often turn to the writer(s) of a class session's Provocation Essay(s) to ask us an initial question or two to get the class talking about the issues you raised. It would be especially wise to select one or more relevant passages from the assigned reading to which you can point us as we consider your questions and seek to explore into the text(s) we are discussing in more detail.
-- **Your Revised Essay (50% of assignment grade):** No more than two days after your assigned class session, you will email me a fresh version of your essay, revised in response to the comments, questions, and/or reactions you received from your peers for a Tuesday class session, your revised essay is due no later than Thursday at 11:59 p.m.; for a Thursday class session, your revised essay is due no later than Saturday at 11:59 p.m. As you revise your essay, your goal should be to learn from the response you received during the digital writing workshop on Google Docs and the conversation in class, and to use your audience's input to make your essay stronger and more persuasive. **Please append a brief paragraph titled "Revision Memo" at the end of your revised Provocation Essay in which you describe what you learned from our workshop on your essay and the revisions you made to strengthen your essay.**
+- **Your Precirculated Essay (25% of assignment grade)**: At least three days prior to your assigned class session, you will email me your essay (for a Tuesday class session, your essay is due no later than 11:59 p.m. on the Saturday immediately preceding your date; for a Thursday class session, your essay is due no later than 11:59 p.m. on the Monday immediately preceding your date). After I receive your essay, I will post it to our shared class folder in Google Docs. Your classmates will read it and respond with their comments, questions, and/or reactions (see the Provocation Workshop Participation assignment below). Be sure to review these responses before class -- they are very likely to come up during our conversation with you.
+- **Your Contribution to Our Class Session (25% of assignment grade):** During your assigned class session, you should be prepared to use your provocation essay and questions to help us begin our conversation for the day. Remember that we will already have read and responded to your essay, so there is no need to present your argument to us again; instead I will often turn to the writer(s) of a class session's Provocation Essay(s) to ask us an initial question or two to get the class talking about the issues you raised. It would be especially wise to select one or more relevant passages from the assigned reading to which you can point us as we consider your questions and seek to explore the text(s) we are discussing in more detail.
+- **Your Revised Essay (50% of assignment grade):** No more than two days after your assigned class session, you will email me a fresh version of your essay, revised in response to the comments, questions, and/or reactions you received from your peers (for a Tuesday class session, your revised essay is due no later than Thursday at 11:59 p.m.; for a Thursday class session, your revised essay is due no later than Saturday at 11:59 p.m.). As you revise your essay, your goal should be to learn from the response you received during the digital writing workshop on Google Docs and the conversation in class, and to use your audience's input to make your essay stronger and more persuasive. **Please append a brief paragraph titled "Revision Memo" at the end of your revised Provocation Essay in which you describe what you learned from our workshop on your essay and the revisions you made to strengthen your essay.**
 
 ## Provocation Workshop Participation (25%)
-Provocation essays written by your classmates are part of the assigned reading each week, and we will be striving to create a supportive community of readers and writers within our course. Giving and receiving feedback will be a key component to this academic community we will seek to build together. Throughout the semester, you will have the opportunity to participate in a digital writing workshop in Google Docs in which you read and respond to your classmates' provocation essays. The day before each class (no later than 11:59 p.m. on Monday for a Tuesday class, or 11:59 p.m. on Wednesday for a Thursday class), you will be responsible for reading the provocation essay(s) your classmates have prepared for the next day's class session and responding with comments, questions, and/or reactions in the margin of the essay on Google Docs. I have set the editing privileges so that everyone can comment on the papers prior to our class session. If you need help, please watch this video tutorial (6 minutes) on using the comment features of Google Docs: https://www.youtube.com/watch?v=kQlzjAVnb1w. 
+Provocation essays written by your classmates are part of our assigned reading each week, and we will be striving to create a supportive community of readers and writers within our course. Giving and receiving feedback will be a key component to this academic community we will seek to build together. Throughout the semester, you will have the opportunity to participate in digital writing workshops in Google Docs in which you read and respond to your classmates' Provocation Essays. The day before each class (no later than 11:59 p.m. on Monday for a Tuesday class, or 11:59 p.m. on Wednesday for a Thursday class), you will be responsible for reading the Provocation Essay(s) your classmates have prepared for the next day's class session and responding with comments, questions, and/or reactions in the margin of the essay on Google Docs. I have set the editing privileges so that everyone can comment on the essays prior to our class session. If you need help, please watch this video tutorial (6 minutes) on using the comment features of Google Docs: https://www.youtube.com/watch?v=kQlzjAVnb1w. 
 
-To receive full credit for provocation workshop participation, you should post at least one substantive comment for each essay your classmates have written. This is the minimum requirement, but you are welcome to participate in the workshop conversation as often as you’d like. Contributions to the provocation workshop are due on Mondays by 11:59 p.m. for a Tuesday class meeting, and Wednesdays by 11:59 p.m. for a Thursday class meeting. I will keep track of your participation in our classroom discussions and grade your performance at the end of each quad. This assignment will be assessed according to a grading rubric, which you should consult regularly to make sure your participation includes all of the required elements. A copy of the rubric is available on our course Blackboard site.
+To receive full credit for provocation workshop participation, you should post at least one substantive comment for each essay your classmates have written. This is the minimum requirement, but you are welcome to participate in the workshop conversation as often as you’d like. Contributions to the provocation workshop are due on Mondays by 11:59 p.m. for a Tuesday class meeting, and Wednesdays by 11:59 p.m. for a Thursday class meeting. I will keep track of your participation in our digital writing workshops and grade your performance at the end of each quad. This assignment will be assessed according to a grading rubric, which you should consult regularly to make sure your participation includes all of the required elements. A copy of the rubric is available on our course Blackboard site.
 
 ## Final Project (20%)
 
@@ -73,7 +73,7 @@ To receive full credit for provocation workshop participation, you should post a
 *Please see "Final Draft," below, for a full description of the final project.* During Week 16 you will have the opportunity to give and receive feedback on essay drafts. I will provide questions for structuring this feedback.
 
 ### Final Draft
-For our culminating project in this course, you will complete a final project that makes an argument about one of the literary texts we have read this semester. Drawing on our reading, class conversations, and your own original research, you will explain your question/issue about the text and persuade your audience that this question/issue is vital for understanding it well. For many of you, the final project will take the form of a 8-10 page (double-spaced) research essay. If you take this route, the introduction to your essay should pose the question/issue that your essay will address and engage your reader’s interest in it. Within your essay, you will join in conversation with at least five other sources (scholars, critics, etc.) who have addressed your question/issue. Your proposed answer to this question (summarized in a single sentence) will serve as the thesis statement for your paper. Please underline your thesis statement (your main claim or argument), which should appear in your first paragraph. 
+For our culminating project in this course, you will complete a final project that makes an argument about one of the literary texts we have read this semester. Drawing on our reading, class conversations, and your own original research, you will explain your question/issue about the text and persuade your audience that this question/issue is vital for understanding it well. For many of you, the final project will take the form of an 8-10 page (double-spaced) research essay. If you take this route, the introduction to your essay should pose the question/issue that your essay will address and engage your reader’s interest in it. Within your essay, you will join in conversation with at least five other sources (scholars, critics, etc.) who have addressed your question/issue. Your proposed answer to this question (summarized in a single sentence) will serve as the thesis statement for your paper. Please underline your thesis statement. 
 
 Others of you may wish to consider an alternative format to the traditional research essay for this final project. I'm open to this. If you have a creative idea for exploring a question/idea about one of our modern Irish literary texts, please let me know. Alternative formats for the final project must receive my approval before you write a proposal.
 
@@ -87,9 +87,6 @@ All assignments should follow MLA guidelines. Writers who neglect these basic is
 ## Absences
 You are permitted two (2) absences ("personal days"), no questions asked, without detriment to your grade; subsequent absences, however, will each lower your overall course grade by five percent. Excessive absence can result in failing this course. If you become ill or the victim of emergency circumstances, please let me know as soon as possible and keep me informed; I am willing to work with you to achieve a reasonable accommodation in such situations, but I can only do so with advance notice and regular communication.
 
-## Extensions
-No extensions will be given except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
-
 ## Accommodations
 Students with diverse learning styles and needs are welcome in this course. In particular, if you have a disability/health consideration that may require accommodations, please feel free to approach me and/or the Academic Support Center (ASC) as soon as possible. ASC staff is available by appointment to assess specific needs, provide referrals, and arrange appropriate accommodations. The sooner you let us know your needs, the sooner we can assist you in achieving your learning goals in this course.
 
@@ -100,7 +97,7 @@ Academic dishonesty is regarded as a major violation of both the academic and sp
 Students are responsible to obtain any library resources assigned for this course. Questions about library resources should be directed to librarians in the Jenks Library. Librarians are available to assist you from the library reference desk, by e-mail at library@gordon.edu, or by phone (978) 867-4878.
 
 ## Final Exam Policy
-You have a final exercise during the assigned Final Exam Period. It is the College’s policy that an individual professor may not, for any reason, allow any student to take a final examination at any time other than that assigned by the Registrar. Accordingly, please do not ask me for permission to be excused from our Final Exam Period, as I do not have the authority to reschedule this course requirement.
+You have a final exercise during the assigned Final Exam Period. It is the College’s policy that an individual professor may not allow any student to take a final examination at any time other than that assigned by the Registrar.
 
 ## Email 
 With the exception of holidays and weekends, I respond to your emails within twenty-four hours.
@@ -116,64 +113,63 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - Yeats and Lady Gregory, *Cathleen Ni Houlihan* (in Harrington 3-11).
 - Yeats and Lady Gregory, "The Irish Dramatic Revival" (in Harrington 401-423).
 - Kiberd, "Introduction" and "A New England Called Ireland?" from *Inventing Ireland* (Blackboard).
-- Provocation Essays and Responses (on Google Docs).
+- Sample Provocation Essay from Professor Logemann (on Google Docs).
 
 ## Week 2 - Thursday, January 21
 - Lady Gregory, *Spreading the News* (in Harrington 36-49).
-- Lady Gregory, *The Rising of the Moon* (in Harrington 50-57)
+- Lady Gregory, *The Rising of the Moon* (in Harrington 50-57).
 - "On Lady Gregory" (in Harrington 443-52).
-- Provocation Essays and Responses (on Google Docs).
 
 ## Week 3 - Tuesday, January 26
 - Anderson, from *Imagined Communities* (Blackboard).
 - Lazarus, "Introducing Postcolonial Studies" (Blackboard).
 - Quigley, "Introduction," from *Empire's Wake* (Blackboard).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 3 - Thursday, January 28
 - Synge, *The Playboy of the Western World* (in Harrington 68-112).
 - "On J. M. Synge" (in Harrington 453-472).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 4 - Tuesday, February 2
 - Shaw, *John Bull’s Other Island*, Acts 1-2 (in Harrington 113-147).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 4 - Thursday, February 4
 - Shaw, *John Bull’s Other Island*, Acts 3-4 (in Harrington 147-196).
 - "On Bernard Shaw" (in Harrington 473-95).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 5 - Tuesday, February 9
 - O’Casey, *Juno and the Paycock* (in Harrington 197-246).
 - "On Sean O’Casey" (in Harrington 496-516).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 5 - Thursday, February 11
 - Joyce, *A Portrait of the Artist as a Young Man*, chapters I and II (5-89).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 6 - Tuesday, February 16
 - Joyce, *A Portrait of the Artist as a Young Man*, chapters III and IV (89-151).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 6 - Thursday, February 18
 - Joyce, *A Portrait of the Artist as a Young Man*, chapter V (151-224).
 - Lewis, "The Conscience of the Race" (in Joyce 451-69).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 7 - Tuesday, February 23
 - Bowen, *The Last September*, Part 1 (1-97).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 7 - Thursday, February 25
 - Bowen, *The Last September*, Part 2 (101-203).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 8 - Tuesday, March 1
 - Bowen, *The Last September*, Part 3 (207-303).
-- DiBttista, "Elizabeth Bowen's Troubled Modernism," from *Modernism and Colonialism* (Blackboard).
-- Provocation Essays and Responses (on Google Docs).
+- DiBattista, "Elizabeth Bowen's Troubled Modernism," from *Modernism and Colonialism* (Blackboard).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 8 - Thursday, March 3
 - **No Class Meeting for Full-Semester Courses -- Final Exams for Quad Courses.**
@@ -187,67 +183,68 @@ With the exception of holidays and weekends, I respond to your emails within twe
 ## Week 9 - Tuesday, March 15
 - Yeats, from *Collected Poems* (Blackboard): "Cuchulain’s Fight with the Sea"; "The Rose of the World"; "The Lake Isle of Innisfree"; "Who Goes with Fergus?"; "The Man Who Dreamed of Faeryland"; "Adam’s Curse"; "No Second Troy"; "September 1913"; "On Those that hated 'The Playboy of the Western World,' 1907."
 - Kiberd, "Revolt into Style – Yeatsian Poetics" from *Inventing Ireland* (Blackboard).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 9 - Thursday, March 17
 - Yeats, from *Collected Poems* (Blackboard): "The Wild Swans at Coole"; "In Memory of Major Robert Gregory"; "Easter, 1916"; "Sixteen Dead Men"; "The Second Coming"; "Sailing to Byzantium"; "Leda and the Swan"; "Among School Children"; "Byzantium"; "Crazy Jane Talks with the Bishop"; "Lapis Lazuli"; "Under Ben Bulben"; "The Circus Animals' Desertion."
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 10 - Tuesday, March 22
 - Beckett, *Waiting for Godot*, Act I (1-59).
 - Watt, "Beckett, our Contemporary" from *Beckett and Contemporary Irish Writing* (Blackboard).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 10 - Thursday, March 24
 - Beckett, *Waiting for Godot*, Act II (60-end).
 - Kiberd, "Religious Writing: Beckett and Others" from *Inventing Ireland* (Blackboard).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 11 - Tuesday, March 29
 - Beckett, *Endgame*.
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 11 - Thursday, March 21
 - Heaney, selected poems (Blackboard).
-- Kiberd, "Under Pressure -- The Writer and Society 1960-90" from *Inventing Ireland* (Blackboard).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 12 - Tuesday, April 5
 - Heaney, selected poems (Blackboard).
-- Provocation Essays and Responses (on Google Docs).
+- Kiberd, "Under Pressure -- The Writer and Society 1960-90" from *Inventing Ireland* (Blackboard).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 12 - Thursday, April 7
 - Carr, *By the Bog of Cats* (in Harrington 352-398).
 - "On Marina Carr" (in Harrington 577-93).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 13 - Tuesday, April 12
 - Friel, *Translations* (in Harrington 255-308).
 - "On Brien Friel" (in Harrington 540-558).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 13 - Thursday, April 14
 - MacLaverty, *Grace Notes* (1-85).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 14 - Tuesday, April 19
 - MacLaverty, *Grace Notes* (86-168).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 14 - Thursday, April 21
 - **No Class Meeting -- Symposium Thursday.**
+- **Proposal for Final Project Due via Blackboard.**
 
 ## Week 15 - Tuesday, April 26
 - MacLaverty, *Grace Notes* (168-203).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 15 - Thursday, April 28
-- MacLaverty, *Grace Notes* (203-end)
+- MacLaverty, *Grace Notes* (203-end).
 - Watt, "Bernard MacLaverty" from *Beckett and Contemporary Irish Writing* (Blackboard).
-- Provocation Essays and Responses (on Google Docs).
+- Provocation Essay(s) from [TBA] (on Google Docs).
 
 ## Week 16 - Tuesday, May 3
-- **First Draft of Final Project Due.**
+- **First Draft of Final Project Due via Blackboard.**
 - In Class: Peer Review and Discussion of Final Project Drafts.
 
 ## Finals Week - Wednesday, May 11 (9-11 a.m.)
