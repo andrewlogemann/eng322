@@ -203,7 +203,7 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - Beckett, *Endgame*.
 - Provocation Essay(s) from [TBA] (on Google Docs).
 
-## Week 11 - Thursday, March 21
+## Week 11 - Thursday, March 31
 - Heaney, selected poems (Blackboard).
 - Provocation Essay(s) from [TBA] (on Google Docs).
 
