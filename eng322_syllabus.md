@@ -5,7 +5,6 @@ date: January 13, 2016
 ---  
 
 # ENG322: Irish Literature
-
 English Department &nbsp; | &nbsp; Gordon College &nbsp; | &nbsp; Spring 2016 &nbsp; | &nbsp; TR 1:15 p.m. - 2:50 p.m. &nbsp; | &nbsp; KOSC 126
 Andrew Logemann &nbsp; | &nbsp; Associate Professor &nbsp; | &nbsp; <mailto:andrew.logemann@gordon.edu> &nbsp; | &nbsp; Frost 216 &nbsp; |
 Office Hours: MW 1-2 p.m. and 3-4 p.m.; TR 3-4 p.m. &nbsp; | &nbsp; Office Hours Calendar Link: <http://j.mp/logemann>
@@ -16,7 +15,7 @@ Office Hours: MW 1-2 p.m. and 3-4 p.m.; TR 3-4 p.m. &nbsp; | &nbsp; Office Hours
 This course will provide an introduction to modern Irish Literature, beginning with the tremendous output of poetry, drama, fiction and prose during the Irish Literary Revival (the 1890s through the 1930s), and focusing on the influential work of W. B. Yeats, Lady Gregory, J. M. Synge and George Bernard Shaw. We will move next to the height of the modernist movement in Ireland, including the work of James Joyce and Samuel Beckett. The course will close with a discussion of Northern Ireland and the combination of politics and Christianity that has, until recently, been a source of tension and violence in the region.  Major themes will include the uniquely Irish sense of history, which includes the myth, legend, and folklore these writers put to intriguing uses; political issues such as colonialism, nationalism, and the Irish language; religious issues such as the role of Protestantism and Catholicism in Ireland and Northern Ireland; attitudes towards the Irish landscape, people, and culture; as well as more general modernist questions such as fragmentation, alienation, issues of gender/race/class, and the nature of the work of art.
 
 # Prerequisite
-- ENG211: Introduction to the Study of Language and Literature
+- ENG211: Introduction to the Study of Language and Literature.
 
 # Required Texts
 - Beckett, Samuel. *Endgame and Act without Words*. Grove Atlantic, ISBN: 9780802144393.
@@ -28,7 +27,6 @@ This course will provide an introduction to modern Irish Literature, beginning w
 
 # Student Learning Outcomes
 After you’ve successfully finished this course, you’ll be able to:
-
 1. Analyze written materials from a variety of genres.
 2. Appreciate the styles and genres of modern Irish literature.
 3. Demonstrate a historical and cultural understanding of modern Irish literature.
@@ -48,7 +46,9 @@ After you’ve successfully finished this course, you’ll be able to:
 Because this is a seminar course, your comments serve a crucial role in the classroom experience. Discussion is one of the best ways to clarify your understandings and learn to build arguments; it’s important, therefore, that you participate frequently and put thought into your preparation. To help you do this in a structured way, I recommend that you get in the habit of coming to class with two questions about the reading, and two passages that struck you as particularly significant/interesting/perplexing. I will keep track of your participation in our classroom discussions and grade your performance at the end of each quad. This assignment will be assessed according to a grading rubric, which you should consult regularly to make sure your participation includes all of the required elements. A copy of the rubric is available on our course Blackboard site.
 
 ## Provocation Essays (20% each; 40% total)
-Twice during the semester, you will write a 5-6 page (1,500-1,800 word) essay about the assigned reading for an upcoming class meeting. *If more than one text has been assigned for your class meeting, you can elect to focus on just one, or to make an argument about the relationship between/among two or more.* These provocation essays should make a provocative argument for group discussion. In other words, they should provide us with a creative, interesting reading of the text that opens it up to the ideas and questions from the course, helps us see things we might have missed, and/or provides us with an insightful analysis. In addition, provocation essays should observe the following guidelines: essays should offer an argument expressed in a thesis claim (please underline your thesis statement in your document before submitting it); essays should discuss specific passages from the assigned reading; essays should be written in MLA style, and include a Works Cited page; essays should draw on 2-3 academic sources to substantiate their claims, deepen their arguments, or increase their potential to persuade their audience; essays should conclude with a list of three provocative questions that can serve to jumpstart our conversation in class.
+Twice during the semester, you will write a 5-6 page (1,500-1,800 word) essay about the assigned reading for an upcoming class meeting. *If more than one text has been assigned for your class meeting, you can elect to focus on just one, or to make an argument about the relationship between/among two or more.* These provocation essays should make a provocative argument for group discussion. In other words, they should provide us with a creative, interesting reading of the text that opens it up to the ideas and questions from the course, helps us see things we might have missed, and/or provides us with an insightful analysis. 
+
+In addition, provocation essays should observe the following guidelines: essays should offer an argument expressed in a thesis claim (please underline your thesis statement in your document before submitting it); essays should discuss specific passages from the assigned reading; essays should be written in MLA style, and include a Works Cited page; essays should draw on 2-3 academic sources to substantiate their claims, deepen their arguments, or increase their potential to persuade their audience; essays should conclude with a list of three provocative questions that can serve to jumpstart our conversation in class.
 
 The Provocation Essay assignment has three components:
 
