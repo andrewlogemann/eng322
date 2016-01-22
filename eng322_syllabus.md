@@ -123,53 +123,52 @@ With the exception of holidays and weekends, I respond to your emails within twe
 ## Week 3 - Tuesday, January 26
 - Anderson, from *Imagined Communities* (Blackboard).
 - Lazarus, "Introducing Postcolonial Studies" (Blackboard).
-- Quigley, "Introduction," from *Empire's Wake* (Blackboard).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Said, from *Culture and Imperialism* (Blackboard).
 
 ## Week 3 - Thursday, January 28
 - Synge, *The Playboy of the Western World* (in Harrington 68-112).
 - "On J. M. Synge" (in Harrington 453-472).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Sarah Ferguson and Hannah Pentico (on Google Docs).
 
 ## Week 4 - Tuesday, February 2
 - Shaw, *John Bull’s Other Island*, Acts 1-2 (in Harrington 113-147).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Alex Hall and Corrine Previte (on Google Docs).
 
 ## Week 4 - Thursday, February 4
 - Shaw, *John Bull’s Other Island*, Acts 3-4 (in Harrington 147-196).
 - "On Bernard Shaw" (in Harrington 473-95).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Rachel Cates and Alex Rivera (on Google Docs).
 
 ## Week 5 - Tuesday, February 9
 - O’Casey, *Juno and the Paycock* (in Harrington 197-246).
 - "On Sean O’Casey" (in Harrington 496-516).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Lily Greenberg and Sarah Warne (on Google Docs).
 
 ## Week 5 - Thursday, February 11
 - Joyce, *A Portrait of the Artist as a Young Man*, chapters I and II (5-89).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Madison Webb, Grace Park, and Rachel Dale (on Google Docs).
 
 ## Week 6 - Tuesday, February 16
 - Joyce, *A Portrait of the Artist as a Young Man*, chapters III and IV (89-151).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Katherine Allison, Caelah-Beth Wight, and Haylie Petre (on Google Docs).
 
 ## Week 6 - Thursday, February 18
 - Joyce, *A Portrait of the Artist as a Young Man*, chapter V (151-224).
 - Lewis, "The Conscience of the Race" (in Joyce 451-69).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Edison Thayer and Rachel Chang (on Google Docs).
 
 ## Week 7 - Tuesday, February 23
 - Bowen, *The Last September*, Part 1 (1-97).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Claire Campbell and Victoria Pearson (on Google Docs).
 
 ## Week 7 - Thursday, February 25
 - Bowen, *The Last September*, Part 2 (101-203).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Elizabeth Kennedy and Kelsey Roberts (on Google Docs).
 
 ## Week 8 - Tuesday, March 1
 - Bowen, *The Last September*, Part 3 (207-303).
 - DiBattista, "Elizabeth Bowen's Troubled Modernism," from *Modernism and Colonialism* (Blackboard).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from Matthew Sawyer and Rosie Drinkhouse (on Google Docs).
 
 ## Week 8 - Thursday, March 3
 - **No Class Meeting for Full-Semester Courses -- Final Exams for Quad Courses.**
@@ -183,52 +182,52 @@ With the exception of holidays and weekends, I respond to your emails within twe
 ## Week 9 - Tuesday, March 15
 - Yeats, from *Collected Poems* (Blackboard): "Cuchulain’s Fight with the Sea"; "The Rose of the World"; "The Lake Isle of Innisfree"; "Who Goes with Fergus?"; "The Man Who Dreamed of Faeryland"; "Adam’s Curse"; "No Second Troy"; "September 1913"; "On Those that hated 'The Playboy of the Western World,' 1907."
 - Kiberd, "Revolt into Style – Yeatsian Poetics" from *Inventing Ireland* (Blackboard).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 9 - Thursday, March 17
 - Yeats, from *Collected Poems* (Blackboard): "The Wild Swans at Coole"; "In Memory of Major Robert Gregory"; "Easter, 1916"; "Sixteen Dead Men"; "The Second Coming"; "Sailing to Byzantium"; "Leda and the Swan"; "Among School Children"; "Byzantium"; "Crazy Jane Talks with the Bishop"; "Lapis Lazuli"; "Under Ben Bulben"; "The Circus Animals' Desertion."
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 10 - Tuesday, March 22
 - Beckett, *Waiting for Godot*, Act I (1-59).
 - Watt, "Beckett, our Contemporary" from *Beckett and Contemporary Irish Writing* (Blackboard).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 10 - Thursday, March 24
 - Beckett, *Waiting for Godot*, Act II (60-end).
 - Kiberd, "Religious Writing: Beckett and Others" from *Inventing Ireland* (Blackboard).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 11 - Tuesday, March 29
 - Beckett, *Endgame*.
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 11 - Thursday, March 31
 - Heaney, selected poems (Blackboard).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 12 - Tuesday, April 5
 - Heaney, selected poems (Blackboard).
 - Kiberd, "Under Pressure -- The Writer and Society 1960-90" from *Inventing Ireland* (Blackboard).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 12 - Thursday, April 7
 - Carr, *By the Bog of Cats* (in Harrington 352-398).
 - "On Marina Carr" (in Harrington 577-93).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 13 - Tuesday, April 12
 - Friel, *Translations* (in Harrington 255-308).
 - "On Brien Friel" (in Harrington 540-558).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 13 - Thursday, April 14
 - MacLaverty, *Grace Notes* (1-85).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 14 - Tuesday, April 19
 - MacLaverty, *Grace Notes* (86-168).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 14 - Thursday, April 21
 - **No Class Meeting -- Symposium Thursday.**
@@ -236,12 +235,12 @@ With the exception of holidays and weekends, I respond to your emails within twe
 
 ## Week 15 - Tuesday, April 26
 - MacLaverty, *Grace Notes* (168-203).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 15 - Thursday, April 28
 - MacLaverty, *Grace Notes* (203-end).
 - Watt, "Bernard MacLaverty" from *Beckett and Contemporary Irish Writing* (Blackboard).
-- Provocation Essay(s) from [TBA] (on Google Docs).
+- Provocation Essays from [TBA] (on Google Docs).
 
 ## Week 16 - Tuesday, May 3
 - **First Draft of Final Project Due via Blackboard.**
